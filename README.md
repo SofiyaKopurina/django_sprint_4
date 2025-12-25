@@ -12,7 +12,7 @@
 1. Клонирование репозитория
 
 ```
-git clone https://github.com/ SofiyaKopurina/django_sprint_4.git
+git clone https://github.com/SofiyaKopurina/django_sprint_4.git
 ```
 
 2. Создание виртуального окружения
