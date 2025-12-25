@@ -1,6 +1,6 @@
 ## Blogicum
 
-# Это часть работы над проектом Блогикум
+# Третья часть работы над проектом Блогикум
 
 # Технологии:
 - Python 3.9
@@ -12,7 +12,7 @@
 1. Клонирование репозитория
 
 ```
-git clone https://github.com/xxyvxx/django_sprint4.git
+git clone https://github.com/ SofiyaKopurina/django_sprint_4.git
 ```
 
 2. Создание виртуального окружения
